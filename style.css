@@ -36,10 +36,10 @@ div,nav,footer{
 ul{
     list-style: none;
 }
-.navbar ul,.noticeboard ul,.contactus ul{
+.navbar ul,.contactus ul{
     overflow: auto;
 }
-.navbar li,.noticeboard li,.contactus li{
+.navbar li,.contactus li{
     /* float: left; */
     display: inline-block;
     margin: 13px 20px;
