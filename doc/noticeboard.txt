@@ -1,7 +1,17 @@
-QUIZ 2
+MIDSEM
 
-OR 14/02/2022 - 1PM
-SI 17/02/2022 - 6PM
-LA 00/00/2022 - 0PM
-OS 00/00/2022 - 0PM
-DM 00/00/2022 - 0PM
+23rd March 9am - OR
+23rd March 9am - OOP
+24th March 11am - SI
+25th March 9am - DM
+26th March 1pm - LA
+27th March 1 pm - OS
+
+Syllabus
+
+OR - UNIT 1 AND 2
+OOP - Chapter 1-8 or Unit 1 and 2
+SI - Tests of Hypothesis, NP tests & SPRT
+DM - From unit-3 to today's class (unit-5) excluding cryptography
+LA - Upto today's class (upto primary decomposition theorem)
+OS - CPU scheduling, process synchronisation, deadlock
