@@ -13,5 +13,5 @@ OR - UNIT 1 AND 2
 OOP - Chapter 1-8 or Unit 1 and 2
 SI - Tests of Hypothesis, NP tests & SPRT
 DM - From unit-3 to today's class (unit-5) excluding cryptography
-LA - Upto today's class (upto primary decomposition theorem)
+LA - Lectures 1-26
 OS - CPU scheduling, process synchronisation, deadlock
