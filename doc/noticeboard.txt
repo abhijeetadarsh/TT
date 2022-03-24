@@ -14,4 +14,7 @@ OOP - Chapter 1-8 or Unit 1 and 2
 SI - Tests of Hypothesis, NP tests & SPRT
 DM - From unit-3 to today's class (unit-5) excluding cryptography
 LA - Lectures 1-26
-OS - CPU scheduling, process synchronisation, deadlock
+OS - Processes and Threads
+	CPU Scheduling
+	Process synchronization
+	Main focus will be on scheduling and synchronization but some questions (very few) will be from processes and threads as well
