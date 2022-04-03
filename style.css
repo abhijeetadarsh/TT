@@ -45,7 +45,7 @@ ul{
 .navbar ul,.contactus ul{
     overflow: auto;
 }
-.navbar li,.contactus li{
+.navbar li,.contactus li,.lectureplans li{
     /* float: left; */
     display: inline-block;
     margin: 13px 20px;

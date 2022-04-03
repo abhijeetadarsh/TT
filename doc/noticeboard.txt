@@ -1,13 +1,23 @@
-MIDSEM
+ENDSEM IS COMMING🥵🥵🥵🥵
 
-23rd March 9am - OR
-23rd March 9am - OOP
-24th March 11am - SI
-25th March 9am - DM
-26th March 1pm - LA
-27th March 1 pm - OS
+18th April 3pm - OR
+20th April 9am - DM
+22nd April 3pm - SI
+24th April 3pm - OS
+26th April 9am - LA
 
 Syllabus
+
+Full syllabus in all
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+DONE😎😎😎😎
+
+MIDSEM syllabus
 
 OR - UNIT 1 AND 2
 OOP - Chapter 1-8 or Unit 1 and 2
@@ -15,6 +25,6 @@ SI - Tests of Hypothesis, NP tests & SPRT
 DM - From unit-3 to today's class (unit-5) excluding cryptography
 LA - Lectures 1-26
 OS - Processes and Threads
-	CPU Scheduling
-	Process synchronization
-	Main focus will be on scheduling and synchronization but some questions (very few) will be from processes and threads as well
+CPU Scheduling
+Process synchronization
+Main focus will be on scheduling and synchronization but some questions (very few) will be from processes and threads as well
